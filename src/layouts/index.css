@@ -67,10 +67,10 @@ p {
   100% { opacity:1; }
 }
 .Flicker {
-   -webkit-animation: FlickerAnimation 3s ease infinite;
-   -moz-animation: FlickerAnimation 3s ease infinite;
-   -o-animation: FlickerAnimation 3s ease infinite;
-    animation: FlickerAnimation 3s ease infinite;
+   -webkit-animation: FlickerAnimation 4s ease infinite;
+   -moz-animation: FlickerAnimation 4s ease infinite;
+   -o-animation: FlickerAnimation 4s ease infinite;
+    animation: FlickerAnimation 4s ease infinite;
 }
 
 @media (max-width: 640px) {
